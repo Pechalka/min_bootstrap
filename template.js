@@ -25,7 +25,7 @@ exports.template = function(grunt, init, done) {
       'express': '3.2.3'
     };
 
-    props.template_test = "demo";
+    props.name = "demo";
     props.version =  "0.1.0";
 
     var files = init.filesToCopy(props);
