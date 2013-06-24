@@ -11,7 +11,7 @@ Once grunt-init is installed, place this template in your `~/.grunt-init/` direc
 
 ```
 git clone git@github.com:Pechalka/min_bootstrap.git ~/.grunt-init/min
-
+```
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
 
 ## Usage
